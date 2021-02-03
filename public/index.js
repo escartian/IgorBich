@@ -35,11 +35,11 @@ const body = (<div id = "default">
   </Navbar>
 
   <Container className="p-3">
+  <h1 className="header">
+      Hello, I'm Igor Bich</h1>
+      <h3>Software engineer</h3>
     <Jumbotron>
-      <h1 className="header">
-        Hello and welcome to the website of Igor Bich!
-      </h1>
-      <p> Currently  I am working for TCS as a contractor to Bank of America.
+      <p> Currently  I am working for TCS as a software developer and have been with the company since 2018.
           I studied computer science at The College of New Jersey (TCNJ)
           where I earned my Bachelor’s of Science degree in computer science.
       </p>
